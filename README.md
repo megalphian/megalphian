@@ -1,4 +1,4 @@
-👋 Hi, I’m Megnath Ramesh (@megalphian)! I'm a graduate researcher in robotics and my goal is to make intelligent robots that react to changes in wary environments.
+👋 Hi, I’m Megnath Ramesh (@megalphian)! I'm a graduate researcher in robotics and my goal is to make intelligent robots that react to changes in unknown environments.
 
 👀 I’m interested in **path planning algorithms**, computational geometry, and machine learning (Neural networks and RL).
 
