@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **coverage planning** algorithms, more specifically generating plans that enable fast coverage of uncertain environments.
 
-💞️ I’m looking to collaborate on projects that aim to build **robots for the future of food**.
+💞️ I’m looking to collaborate on projects that aim to build **robots for the future of mobility and agriculture**.
 
 📫 You can reach me at **megnath.ramesh@gmail.com**
 
